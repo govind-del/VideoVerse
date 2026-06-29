@@ -1,0 +1,20 @@
+{
+  "name": "videoverse",
+  "version": "1.0.0",
+  "description": "Modern video-sharing platform with multilingual comments, premium downloads, and community moderation.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "video",
+    "streaming",
+    "express",
+    "nodejs"
+  ],
+  "author": "govind-del",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
